@@ -11,7 +11,7 @@ I'm a U.S. Marine Corps veteran specializing in cybersecurity analysis and engin
 ## 👨‍💻 CyberSecurity Projects
 
 - **RKE2 Cluster Deployment Lab** - [RKE2 Cluster Deployment Lab](./How%20to%20Build%20RKE2/README.md)
-- **SCAP - Remediating RHEL 8.10 Remediation** - [RHEL CAT I Vulnerabilities](./SCAP%20-%20RHEL%208.10%20Remedation%20Practice/README.md)
+- **SCAP - RHEL 8.10 Stig Implementation Guide ** - [RHEL CAT I Vulnerabilities](./SCAP%20-%20RHEL%208.10%20Remedation%20Practice/README.md)
 
 ## 📺 Certifications
 
