@@ -1,4 +1,4 @@
-# SCAP on RHEL Practice
+# RHEL Stig Implementation Guide
 
 <aside>
 💡
